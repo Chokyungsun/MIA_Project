@@ -1,0 +1,90 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.mia"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:6:5-81
+12-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:7:5-80
+13-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:7:22-77
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:8:5-65
+14-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:8:22-62
+15
+16    <!-- 전화와 메시지를 보내기 위한 퍼미션 -->
+17    <uses-permission android:name="android.permission.CALL_PHONE" />
+17-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:11:5-69
+17-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:11:22-66
+18    <uses-permission android:name="android.permission.DIAL_PHONE" />
+18-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:12:5-69
+18-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:12:22-66
+19
+20    <uses-feature
+20-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:15:5-17:35
+21        android:name="android.hardware.camera"
+21-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:16:9-47
+22        android:required="true" />
+22-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:17:9-32
+23
+24    <application
+24-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:19:5-41:19
+25        android:allowBackup="true"
+25-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:20:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.0.1] /Users/summer/.gradle/caches/transforms-2/files-2.1/c0a39027978b83a483a047f5c31d0c4e/core-1.0.1/AndroidManifest.xml:22:18-86
+27        android:debuggable="true"
+28        android:icon="@mipmap/mia_icon"
+28-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:21:9-40
+29        android:label="@string/app_name"
+29-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:22:9-41
+30        android:roundIcon="@mipmap/mia_icon_round"
+30-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:23:9-51
+31        android:supportsRtl="true"
+31-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:24:9-35
+32        android:testOnly="true"
+33        android:theme="@style/AppTheme" >
+33-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:25:9-40
+34        <activity android:name="com.example.mia.intro" >
+34-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:27:9-32:20
+34-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:27:19-40
+35            <intent-filter>
+35-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:28:13-31:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:29:17-69
+36-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:29:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:30:17-77
+38-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:30:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity android:name="com.example.mia.intro2" />
+41-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:34:9-44
+41-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:34:19-41
+42        <activity android:name="com.example.mia.BeforeMainActivity" />
+42-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:35:9-56
+42-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:35:19-53
+43        <activity android:name="com.example.mia.MainActivity" />
+43-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:36:9-49
+43-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:36:19-47
+44        <activity android:name="com.example.mia.MactchingActivity" />
+44-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:37:9-54
+44-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:37:19-52
+45        <activity android:name="com.example.mia.Result" />
+45-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:38:9-43
+45-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:38:19-41
+46    </application>
+47
+48</manifest>
