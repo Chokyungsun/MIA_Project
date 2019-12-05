@@ -53,38 +53,37 @@
 30-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:23:9-51
 31        android:supportsRtl="true"
 31-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:24:9-35
-32        android:testOnly="true"
-33        android:theme="@style/AppTheme" >
-33-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:25:9-40
-34        <activity android:name="com.example.mia.intro" >
-34-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:27:9-32:20
-34-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:27:19-40
-35            <intent-filter>
-35-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:28:13-31:29
-36                <action android:name="android.intent.action.MAIN" />
-36-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:29:17-69
-36-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:29:25-66
-37
-38                <category android:name="android.intent.category.LAUNCHER" />
-38-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:30:17-77
-38-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:30:27-74
-39            </intent-filter>
-40        </activity>
-41        <activity android:name="com.example.mia.intro2" />
-41-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:34:9-44
-41-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:34:19-41
-42        <activity android:name="com.example.mia.BeforeMainActivity" />
-42-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:35:9-56
-42-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:35:19-53
-43        <activity android:name="com.example.mia.MainActivity" />
-43-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:36:9-49
-43-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:36:19-47
-44        <activity android:name="com.example.mia.MactchingActivity" />
-44-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:37:9-54
-44-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:37:19-52
-45        <activity android:name="com.example.mia.Result" />
-45-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:38:9-43
-45-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:38:19-41
-46    </application>
-47
-48</manifest>
+32        android:theme="@style/AppTheme" >
+32-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:25:9-40
+33        <activity android:name="com.example.mia.intro" >
+33-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:27:9-32:20
+33-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:27:19-40
+34            <intent-filter>
+34-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:28:13-31:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:29:17-69
+35-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:29:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:30:17-77
+37-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:30:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity android:name="com.example.mia.intro2" />
+40-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:34:9-44
+40-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:34:19-41
+41        <activity android:name="com.example.mia.BeforeMainActivity" />
+41-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:35:9-56
+41-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:35:19-53
+42        <activity android:name="com.example.mia.MainActivity" />
+42-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:36:9-49
+42-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:36:19-47
+43        <activity android:name="com.example.mia.MactchingActivity" />
+43-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:37:9-54
+43-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:37:19-52
+44        <activity android:name="com.example.mia.Result" />
+44-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:38:9-43
+44-->/Users/summer/AndroidStudioProjects/MIA/app/src/main/AndroidManifest.xml:38:19-41
+45    </application>
+46
+47</manifest>
