@@ -1,5 +1,6 @@
 <h1 align="center">M.I.A</h1>
 
+
 <p align="center">
 <a href="https://github.com/Chokyungsun/MIA_Project">
 <img src="https://img.shields.io/badge/version-0.5-blue.svg" alt="version">
@@ -19,22 +20,23 @@
 <sub>>_ This project is aimed at finding missing children through real-time image processing.▌<sub>
 <br>
 <sub>>_ 이 프로젝트는 실시간 이미지 프로세싱을 통해 실종아동을 찾기 위한 프로젝트입니다.▌<sub><br>
-<sub> <i>>2019-Media Ajou University Project</i><sub></p>
+<sub><i>>2019-Media Ajou University Project</i><sub></p>
 
+<br>
 <p align="center">
 <img src="https://github.com/Chokyungsun/MIA_Project/blob/master/md_resource/%EB%AF%B8%EC%95%84%EC%98%81%EC%83%81.gif" alt="MIA Demo" width="300">
 </p>
-
 
 <br>
 <br>
 
 Please consider starting or tweeting about this project to show your support. Thanks!
 
-Created by :girl:[Chokyungsun](https://github.com/Chokyungsun) and :boy:[Joochanhyung]...▌
+Created by :girl: Chokyungsun and :boy: Joochanhyung...▌
 
 <br>
 <br>
+
 
 ### **M.I.A**
 <p>
@@ -71,7 +73,9 @@ It is expected that this application will encourage the search for missing child
 
 
 
-## ❯ Getting started
+## ❯ Dataset
+
+
 
 ## ❯ Install
 
