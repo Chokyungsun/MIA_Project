@@ -72,11 +72,23 @@ It is expected that this application will encourage the search for missing child
 
 ## ❯ Dataset
 
+Aging simulation의 training을 위해 필요한 데이터셋.
 
+다양한 연령과 성별에 따른 사람들의 얼굴 이미지.
+
+[imdb-wiki](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
+
+다운받은 후 data 폴더에 압축 해제. 
 
 ## ❯ Install
 
-## ❯ Process
+0. Download Dataset
 
-## ❯ License
+1. Clone the project
+```
+git clone https://github.com/Chokyungsun/MIA_Project.git 
+```
+
+2. Start Applicatoin in Android Studio
+
 
