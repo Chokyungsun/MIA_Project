@@ -22,7 +22,7 @@
 <sub> <i>>2019-Media Ajou University Project</i><sub></p>
 
 <p align="center">
-<img src="./md_resource/미안영상.gif" alt="MIA Demo" width="750">
+<img src="https://github.com/Chokyungsun/MIA_Project/blob/master/md_resource/%EB%AF%B8%EC%95%84%EC%98%81%EC%83%81.gif" alt="MIA Demo" width="300">
 </p>
 
 
@@ -60,7 +60,10 @@ It is expected that this application will encourage the search for missing child
 
 
 <p align="center">
-<img src="./md_resource/layouts.gif" alt="MIA layouts" width="750"></p>
+<img src="https://github.com/Chokyungsun/MIA_Project/blob/master/md_resource/layouts.png" alt="MIA layouts" width="850">
+</p>
+
+
 <p align="center">
 <sub>_M.I.A Application Layouts_ </sub>
 </p>
